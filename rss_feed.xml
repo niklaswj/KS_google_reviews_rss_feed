@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Google Reviews for K&amp;S Heating and Air</title>
+    <link>https://raw.githubusercontent.com/niklaswj/google-reviews-rss/main/rss_feed.xml</link>
+    <description>Latest five-star reviews for K&amp;S Heating and Air on Google</description>
+    <item>
+      <title><![CDATA[Tina Jones Marten - 5 stars]]></title>
+      <description><![CDATA[I was very impressed with Alexis. He was respectful of my home and myself. He explained everything he was doing so that I could understand. I feel he went above and beyond with the care and quality of work that he performed for me. I was able to sign up for your maintenance plan with him and he made it easy and quick. I will be requesting him if I have future needs and when I schedule maintenance. Thank you for hiring him!!]]></description>
+      <pubDate>1667586666</pubDate>
+      <guid isPermaLink="false">1667586666</guid>
+    </item><item>
+      <title><![CDATA[Yoon Lee - 1 stars]]></title>
+      <description><![CDATA[Just the worst company to work with.
+I originally called because I smell something bad coming out from vents upstair. I also requested for air re-balance because some rooms are too cold during Winter. We were still covered by the warranty.
+
+None of them were fixed!! It didn't take couple minutes to answer problems I had. The guy didn't bother to check anything. Terrible company already.
+
+For air balance, they are gonna check with their way. They will always be right because its always honna be near the vent to check the temperature.
+
+They will fix it only if you pay additional fees. No point of having warranty with them.
+
+I asked for it smells bad. A guy came and said it's normal without looking at the system. Just recommend cleaning with additional fees. They won't fix any. They won't admit what they did wrong.]]></description>
+      <pubDate>1647636579</pubDate>
+      <guid isPermaLink="false">1647636579</guid>
+    </item><item>
+      <title><![CDATA[shannon e - 5 stars]]></title>
+      <description><![CDATA[Alexis was so friendly and very professional. He took time to help me understand my system better. I could tell he really wanted to helpful and wasn’t just going through the motions. Great service. 10/10 would recommend :)]]></description>
+      <pubDate>1665087613</pubDate>
+      <guid isPermaLink="false">1665087613</guid>
+    </item><item>
+      <title><![CDATA[Bob Everett (Dallas Bob) - 5 stars]]></title>
+      <description><![CDATA[Mike was my technician sent out to inspect our system. We are in a brand new house and this was the first time we needed to use our heater.
+It turns out that the first company that installed our system never hooked up our gas lines!They were still capped and there had been no attempt to install them correctly. Mike did so in a timely and efficient manner.
+He also took the time to thoroughly go over and explain what he did and he went over all of the info criteria that I needed to know regarding the device settings, and the preventative maintenance procedures. He also informed me of his company’s maintenance package for service and upkeep on my system which I am signing up for as well! I took his card and I feel really comfortable knowing that I’ve got a professional company and technician that will watch out for my best interests when any future issues arise!
+Thanks Mike!]]></description>
+      <pubDate>1669297364</pubDate>
+      <guid isPermaLink="false">1669297364</guid>
+    </item><item>
+      <title><![CDATA[Archy Manalel - 5 stars]]></title>
+      <description><![CDATA[Alexis was very friendly and knowledgeable. Shared what was wrong with Furnace, how he knew it, and how he fixed it. Very accommodating  with our questions/concerns and helped me address some other issues including setting up auto mode on the thermostat. Would recommend to anyone who needs their service.]]></description>
+      <pubDate>1666649575</pubDate>
+      <guid isPermaLink="false">1666649575</guid>
+    </item>
+  </channel>
+</rss>
